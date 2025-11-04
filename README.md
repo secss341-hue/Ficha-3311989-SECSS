@@ -42,21 +42,23 @@ La implementación total se estima entre 24 y 32 semanas, dividido en cuatro fas
   - Monitoreo de ocupación en tiempo real.
   - Generación de reportes operativos y estratégicos.
 
-- Funcionalidades:
-- Dashboard Administrativo:
+Funcionalidades:
+- Dashboard Administrativo.
 - Vista de ocupación en un plano digital.
 - Módulo de Reserva en línea para usuarios.
 - Integración Físico-Digital: Módulo que recibe datos en tiempo real de sensores de ocupación/lectores de placa para actualizar el estado de los cupos.
 - Gestión de zonas y aforo (configuración de áreas y límites de cupo).
    
 # Analisis de la problematica :pencil:
-- Se llevo a cabo una investigación mixta (cualitativa y cuantitativa) con el objetivo de profundizar en una problemática presente en el SENA Complejo Sur.
+Se llevo a cabo una investigación mixta (cualitativa y cuantitativa) con el objetivo de profundizar en una problemática presente en el SENA Complejo Sur.
 
 Se utilizo la recolección de datos como herramienta de investigación: 
 - Entrevista y encuestas.
 # Metodología de desarrollo :floppy_disk:
 Se emplean y combinan elementos de las siguientes metodologías:
 
-Scrum: Gracias a su adaptabilidad y apertura a cambios durante el desarrollo, además del contacto constante con el cliente. Ciclos cortos de desarrollo.
+Scrum: 
+Gracias a su adaptabilidad y apertura a cambios durante el desarrollo, además del contacto constante con el cliente. Ciclos cortos de desarrollo.
 
-Kanban: Facilita la visualización del flujo de trabajo y los entregables para un mayor orden y eficiencia o priorización. 
+Kanban:
+Facilita la visualización del flujo de trabajo y los entregables para un mayor orden y eficiencia o priorización. 
