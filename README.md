@@ -7,7 +7,7 @@ En el Complejo Sur del SENA, con una alta frecuencia de personas en las áreas d
 El propósito del proyecto es analizar los procesos de administración para el acceso a la zona de parqueadero,asi mismo mejorarlo, implementando un aplicativo web con las herramientas administrativas necesarias, facilitando el manejo de información de los propietarios,celadores y administradores. 
 
 # Pregunta del proyecto : :interrobang:
--¿Cómo se puede utilizar un aplicativo web para mejorar y agilizar el proceso de ingresos y salidas de los medios de trasporte utilizados por los propietarios? 
+¿Cómo se puede utilizar un aplicativo web para mejorar y agilizar el proceso de ingresos y salidas de los medios de trasporte utilizados por los propietarios? 
 
 # Objetivo general: :dart:
 
@@ -23,7 +23,7 @@ Implementar un sistema de gestion e informacion para mejorar la fluidez de los p
 
 # Alcancé: :rocket:
 - A quién va dirigido:
-  - Administradores y Personal de Seguridad: Operación y monitoreo en tiempo real del aforo, gestión de incidentes.
+ - Administradores y Personal de Seguridad: Operación y monitoreo en tiempo real del aforo, gestión de incidentes.
   - Usuarios (Aprendices): Registro, reserva y uso transparente en el acceso de los cupos de parqueadero.
   - Dirección Administrativa: Gestionar y obtener reportes sobre ocupación u optimización de recursos.
 
@@ -35,25 +35,25 @@ La implementación total se estima entre 24 y 32 semanas, dividido en cuatro fas
 4. Pruebas y despliegue final.
 
 - Procesos:
-  El aplicativo automatizará y gestionará los siguientes procesos:
- - Registro unico de usuarios y vehículos.
- - Asignación/Reserva de cupos (fijos y rotativos).
- - Control de ingreso y salidas en linea sincronizado con el sistema físico de acceso.
- - Monitoreo de ocupación en tiempo real.
- - Generación de reportes operativos y estratégicos.
+- El aplicativo automatizará y gestionará los siguientes procesos:
+  - Registro unico de usuarios y vehículos.
+  - Asignación/Reserva de cupos (fijos y rotativos).
+  - Control de ingreso y salidas en linea sincronizado con el sistema físico de acceso.
+  - Monitoreo de ocupación en tiempo real.
+  - Generación de reportes operativos y estratégicos.
 
 - Funcionalidades:
-  Dashboard Administrativo:
- - Vista de ocupación en un plano digital.
- - Módulo de Reserva en línea para usuarios.
- - Integración Físico-Digital: Módulo que recibe datos en tiempo real de sensores de ocupación/lectores de placa para actualizar el estado de los cupos.
- - Gestión de zonas y aforo (configuración de áreas y límites de cupo).
+- Dashboard Administrativo:
+- Vista de ocupación en un plano digital.
+- Módulo de Reserva en línea para usuarios.
+- Integración Físico-Digital: Módulo que recibe datos en tiempo real de sensores de ocupación/lectores de placa para actualizar el estado de los cupos.
+- Gestión de zonas y aforo (configuración de áreas y límites de cupo).
    
 # Analisis de la problematica :pencil:
--Se llevo a cabo una investigación mixta (cualitativa y cuantitativa) con el objetivo de profundizar en una problemática presente en el SENA Complejo Sur.
+- Se llevo a cabo una investigación mixta (cualitativa y cuantitativa) con el objetivo de profundizar en una problemática presente en el SENA Complejo Sur.
 
--Se utilizo la recolección de datos como herramienta de investigación: 
- - Entrevista y encuestas.
+Se utilizo la recolección de datos como herramienta de investigación: 
+- Entrevista y encuestas.
 # Metodología de desarrollo :floppy_disk:
 Se emplean y combinan elementos de las siguientes metodologías:
 
