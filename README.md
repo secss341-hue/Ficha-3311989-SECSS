@@ -22,19 +22,19 @@ Implementar un sistema de gestion e informacion para mejorar la fluidez de los p
 6. Implementar el aplicativo en la zona de parqueo de motos y bicicletas.
 
 # Alcancé: :rocket:
-- A quién va dirigido:
- - Administradores y Personal de Seguridad: Operación y monitoreo en tiempo real del aforo, gestión de incidentes.
-  - Usuarios (Aprendices): Registro, reserva y uso transparente en el acceso de los cupos de parqueadero.
-  - Dirección Administrativa: Gestionar y obtener reportes sobre ocupación u optimización de recursos.
+A quién va dirigido:
+- Administradores y Personal de Seguridad: Operación y monitoreo en tiempo real del aforo, gestión de incidentes.
+- - Usuarios (Aprendices): Registro, reserva y uso transparente en el acceso de los cupos de parqueadero.
+  - - Dirección Administrativa: Gestionar y obtener reportes sobre ocupación u optimización de recursos.
 
-- Tiempo Requerido: 
+Tiempo Requerido: 
 La implementación total se estima entre 24 y 32 semanas, dividido en cuatro fases principales:
 1. Planificación y diseño.
 2. Desarrollo e implementación del aplicativo Web.
 3. Integración con control físico (sensores, barreras, lectores).
 4. Pruebas y despliegue final.
 
-- Procesos:
+Procesos:
 - El aplicativo automatizará y gestionará los siguientes procesos:
   - Registro unico de usuarios y vehículos.
   - Asignación/Reserva de cupos (fijos y rotativos).
