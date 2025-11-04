@@ -57,4 +57,4 @@ Se emplean y combinan elementos de las siguientes metodologías:
 
 Scrum: Gracias a su adaptabilidad y apertura a cambios durante el desarrollo, además del contacto constante con el cliente. Ciclos cortos de desarrollo.
 
-Kanban: Facilita la visualización del flujo de trabajo y los entregables para un mayor orden y eficiencia o priorización.
+Kanban: Facilita la visualización del flujo de trabajo y los entregables para un mayor orden y eficiencia o priorización. 
