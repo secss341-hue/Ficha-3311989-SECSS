@@ -23,9 +23,9 @@ Implementar un sistema de gestion e informacion para mejorar la fluidez de los p
 
 # Alcancé: :rocket:
 A quién va dirigido:
-- Administradores y Personal de Seguridad: Operación y monitoreo en tiempo real del aforo, gestión de incidentes.
-- - Usuarios (Aprendices): Registro, reserva y uso transparente en el acceso de los cupos de parqueadero.
-  - - Dirección Administrativa: Gestionar y obtener reportes sobre ocupación u optimización de recursos.
+ -  Administradores y Personal de Seguridad: Operación y monitoreo en tiempo real del aforo, gestión de incidentes.
+ -  Usuarios (Aprendices): Registro, reserva y uso transparente en el acceso de los cupos de parqueadero.
+ - Dirección Administrativa: Gestionar y obtener reportes sobre ocupación u optimización de recursos.
 
 Tiempo Requerido: 
 La implementación total se estima entre 24 y 32 semanas, dividido en cuatro fases principales:
