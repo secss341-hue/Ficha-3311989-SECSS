@@ -23,9 +23,9 @@
 
 # Alcancé: :rocket:
 - A quién va dirigido:
-  Administradores y Personal de Seguridad: Operación y monitoreo en tiempo real del aforo, gestión de incidentes.
-  Usuarios (Aprendices): Registro, reserva y uso transparente en el acceso de los cupos de parqueadero.
-  Dirección Administrativa: Gestionar y obtener reportes sobre ocupación u optimización de recursos.
+  - Administradores y Personal de Seguridad: Operación y monitoreo en tiempo real del aforo, gestión de incidentes.
+  - Usuarios (Aprendices): Registro, reserva y uso transparente en el acceso de los cupos de parqueadero.
+  - Dirección Administrativa: Gestionar y obtener reportes sobre ocupación u optimización de recursos.
 
 - Tiempo Requerido: 
 La implementación total se estima entre 24 y 32 semanas, dividido en cuatro fases principales:
@@ -38,7 +38,7 @@ La implementación total se estima entre 24 y 32 semanas, dividido en cuatro fas
   El aplicativo automatizará y gestionará los siguientes procesos:
 1. Registro unico de usuarios y vehículos.
 2. Asignación/Reserva de cupos (fijos y rotativos).
-3. Control de Ingreso y Egreso sincronizado con el sistema físico de acceso.
+3. Control de ingreso y salidas en linea sincronizado con el sistema físico de acceso.
 4. Monitoreo de ocupación en tiempo real.
 5. Generación de reportes operativos y estratégicos.
 
@@ -53,7 +53,7 @@ La implementación total se estima entre 24 y 32 semanas, dividido en cuatro fas
 -Se llevo a cabo una investigación mixta (cualitativa y cuantitativa) con el objetivo de profundizar en una problemática presente en el SENA Complejo Sur.
 
 -Se utilizo la recolección de datos como herramienta de investigación: 
-Entrevista y encuestas.
+ Entrevista y encuestas.
 # Metodología de desarrollo :floppy_disk:
 Se emplean y combinan elementos de las siguientes metodologías:
 
