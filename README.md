@@ -1,6 +1,6 @@
 # Ficha-3311989-SECSS :construction::wink::construction: 
 
-# Planteamiento deL problema : 
+# Planteamiento deL problema : :dizzy_face:
 -En el Complejo Sur del SENA, con una alta frecuencia de personas en las áreas del establecimiento, donde un porcentaje de esta comunidad es propietaria de bicicletas y motos, es decir que se identifico que los propietarios, se enfrentan a una gestión poco eficiente en la administración de los  espacios de estacionamiento, del mismo modo se evidencio que la única manera de acceder a este servicio es por medio de un formulario físico.
 
 # Justificación :point_up_2:
