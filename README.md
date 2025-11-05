@@ -35,12 +35,12 @@ La implementación total se estima entre 24 y 32 semanas, dividido en cuatro fas
 4. Pruebas y despliegue final.
 
 Procesos:
-- El aplicativo automatizará y gestionará los siguientes procesos:
-  - Registro unico de usuarios y vehículos.
-  - Asignación/Reserva de cupos (fijos y rotativos).
+-  El aplicativo automatizará y gestionará los siguientes procesos:
+-  - Registro unico de usuarios y vehículos.\
+   - Asignación/Reserva de cupos (fijos y rotativos)
   - Control de ingreso y salidas en linea sincronizado con el sistema físico de acceso.
-  - Monitoreo de ocupación en tiempo real.
-  - Generación de reportes operativos y estratégicos.
+  -  Monitoreo de ocupación en tiempo real.
+  -  Generación de reportes operativos y estratégicos.
 
 Funcionalidades:
 - Dashboard Administrativo.
