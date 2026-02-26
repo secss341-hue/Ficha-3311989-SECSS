@@ -4,7 +4,7 @@
 # Planteamiento deL problema
 En el Complejo Sur del SENA tiene una alta frecuencia y flujo de vehiculos en la área de estacionamiento de la calle 30,se evidencio que un porcentaje de la comunidad del SENA es propietario o propiertaria de bicicletas o motos;Se identifico que los propietarios enfrentan a una gestión poco eficiente en la administración de los espacios,cuya unica manera de solicitar una zoana es por medio de un formulario físico con un pequeño costo.
 
-# Justificación :
+# Justificación
 Atraves de una investigación mixta (cualitativa y cuantitativa) y con el objetivo de profundizar en la problemática presente en el SENA  estacionamiento del Complejo Sur, se concluyo que es necesario el desarrollo de un aplicativo web cuyo propósito del proyecto es analizar los procesos de administración para el acceso del parqueadero, mejorando e implementando un aplicativo con las herramientas administrativas necesarias, facilitando el manejo de información de los propietarios. 
 
 # Pregunta problema
