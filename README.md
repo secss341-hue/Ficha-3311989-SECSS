@@ -51,19 +51,3 @@ Dashboard Administrativo: Vista de ocupación en un plano digital.
 
 # Investigación 
 Se utilizo en la recolección de datos atraves de entrevista y encuestas, a funcioarios, aprendices, directivos y terceros que hacen uso o an hecho uso del sistema de parquadero.
-- Funcionalidades:
-  Dashboard Administrativo: Vista de ocupación en un plano digital.
-1. Módulo de Reserva en línea para usuarios.
-2. Integración Físico-Digital: Módulo que recibe datos en tiempo real de sensores de ocupación/lectores de placa para actualizar el estado de los cupos.
-3.  Gestión de Zonas y Aforo (configuración de áreas y límites de cupo).
-   
-# Analisis de la problematica
--Se llevo a cabo una investigación mixta (cualitativa y cuantitativa) con el objetivo de profundizar en una problemática presente en el SENA Complejo Sur.
-
--Se utilizo la recolección de datos como herramienta de investigación: Entrevista y encuestas.
-# Metodología de desarrollo :floppy_disk:
-Se emplean y combinan elementos de las siguientes metodologías:
-
-Scrum: Gracias a su adaptabilidad y apertura a cambios durante el desarrollo, además del contacto constante con el cliente. Ciclos cortos de desarrollo.
-
-Kanban: Facilita la visualización del flujo de trabajo y los entregables para un mayor orden y eficiencia o priorización. 
