@@ -265,6 +265,9 @@ table{
     background-color: #13678B; /* El azul de tu diseño original */
     border: none;
     transition: 0.3s ease;
+    justify-content: center;   /* Centra los botones */
+    align-items: center;       /* Centra verticalmente */
+    gap: 10px;
 }
 
 .btn-success:hover {
