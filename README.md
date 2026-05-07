@@ -1,4 +1,4 @@
-# MARCO TEORICO
+# MARCO TEORICO.
 # Nombre del proyecto
 - Servicio de Estacionamiento para el Complejo Sur del SENA (SECSS)
 # Planteamiento deL problema
